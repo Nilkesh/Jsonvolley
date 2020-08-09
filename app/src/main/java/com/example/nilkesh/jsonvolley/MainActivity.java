@@ -21,8 +21,7 @@ import java.util.List;
 
 public class MainActivity extends AppCompatActivity {
 
-    String url ="https://api.androidhive.info/contacts/";
-    //String url ="http://appfeed.bhaskar.com/appFeedV2/News/960/0/1/";
+  
     ListView list;
     List<ModelData> detail;
     @Override
